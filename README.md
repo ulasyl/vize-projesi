@@ -1,7 +1,6 @@
-# banka
 
 ## Vize Projesi
 
-# Ulaş Yıldırım 
-# 211216016
+Ulaş Yıldırım 
+211216016
 
