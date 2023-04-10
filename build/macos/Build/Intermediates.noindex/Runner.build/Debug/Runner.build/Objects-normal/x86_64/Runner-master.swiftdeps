@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "08f2a290fb9d978f5748fbcce19c2b2ef72f959ecbf52fdd35bfd76a519fd5ae"
+build_start_time: [1681117895, 292798000]
+build_end_time: [1681117901, 694668000]
+inputs:
+  "/Users/pc/Desktop/Banka Vize Projesi/banka/macos/Flutter/GeneratedPluginRegistrant.swift": [1681117870, 379450832]
+  "/Users/pc/Desktop/Banka Vize Projesi/banka/macos/Runner/AppDelegate.swift": [1666801966, 0]
+  "/Users/pc/Desktop/Banka Vize Projesi/banka/macos/Runner/MainFlutterWindow.swift": [1666801966, 0]
